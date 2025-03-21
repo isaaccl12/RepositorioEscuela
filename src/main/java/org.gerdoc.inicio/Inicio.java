@@ -31,7 +31,7 @@ public class Inicio {
         Historiales historiales = null;
         Ejecutable ejecutable = null;
         historiales = Historia.getInstance( );
-
+        System.out.println("Holaaaaa Isac");
         while( flag )
         {
             Menu.principal2( );
